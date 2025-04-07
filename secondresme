@@ -1,0 +1,47 @@
+    1  sudo apt update && sudo apt install -y virtualbox-guest-utils 
+    2  sudo reboot
+    3  ls
+    4  cd example
+    5  ls -a
+    6  git og
+    7  git log
+    8  git status
+    9  git log --patch
+   10  git remote add origin https://github.com/lmellouk/EST_test_repo.git
+   11  status log
+   12  git status 
+   13  git log
+   14  ls
+   15  ls -a
+   16  git status
+   17  git push
+   18  git push --set-upstream origin master
+   19* git remote add origin https://githu
+   20  git push
+   21  git push --set-upstream origin master
+   22  git remote add origin git@github.com:lmellouk/EST_test_repo.git
+   23  git push --set-upstream origin master
+   24  git remote add origin git@github.com:lmellouk/EST_test_repo.git
+   25  git remote add origin git@github.com:lmellouk/EST_test_project.git
+   26  git remote -v
+   27  set remote remove origin
+   28  git remote -v
+   29  git remote add origin git@github.com:lmellouk/EST_test_project.git
+   30  git remote remove origin
+   31  git remote -v
+   32  git remote add origin git@github.com:lmellouk/EST_test_project.git
+   33  git push
+   34  git push --set-upstream origin master
+   35  git add .
+   36  git status
+   37  git commit -m "send the resume file"
+   38  git push
+   39  history|second_resume
+   40  history|second_resume.doc
+   41  history|secondresme
+   42  history|vim secondresme
+   43  touch secondresme
+   44  history|secondresme
+   45  ls
+   46  history
+   47  history>>secondresme
